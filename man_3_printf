@@ -1,10 +1,10 @@
-.TH _PRINTF 3 "28 February 2018" "1" "_printf Manual"
+.TH _PRINTF 3 "16 October 2022" "1" "_printf Manual"
 .SH NAME
 _printf()
 
 The _printf function echoes the functionality of printf().
 .SH SYNOPSIS
-.B #include "holberton.h"
+.B #include "main.h"
 
 .B int _printf(const char \fI*format\fR,
 .B ...)
